@@ -1,1 +1,1 @@
-(Advanced Data Structures in Java)[https://www.coursera.org/learn/advanced-data-structures]
+Coursera: [Advanced Data Structures in Java](https://www.coursera.org/learn/advanced-data-structures)
